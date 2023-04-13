@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/maxhkpmgorg1254/MaxHPipelineProject/_apis/build/status%2Fmaxh1254.js-e2e-express-server?branchName=main)](https://dev.azure.com/maxhkpmgorg1254/MaxHPipelineProject/_build/latest?definitionId=8&branchName=main)
 ---
 page_type: sample
 languages:
